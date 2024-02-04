@@ -23,3 +23,12 @@ print("New Email\n")
 
 # Si olvidas las comillas o los paréntesis, la computadora no podra ejecutar tu código.
 
+# Ahora imagina si tuvieras una apliccación de comida a domicilio.
+
+print("Order Ready!\n")
+
+# HABLEMOS AHORA DE NÚMEROS.
+
+# Los números en Python no requieren de las comillas.
+
+print(123)
