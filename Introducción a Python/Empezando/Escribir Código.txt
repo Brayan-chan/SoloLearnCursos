@@ -1,0 +1,11 @@
+Python es uno de los lenguajes más populares y útiles
+utlizados para dar instrucciones a las computadoras.
+
+En este curso, aprenderás a escribir programas 
+para automatizar y acelerar tareas.
+
+La instrucción print() es la forma más fácil de enviar un
+mensaje a la pantalla u otro dispositivo de visualización.
+
+La instrucción print() requiere de paréntesis alrededor
+del mensaje.
