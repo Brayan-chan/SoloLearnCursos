@@ -9,3 +9,12 @@ mensaje a la pantalla u otro dispositivo de visualización.
 
 La instrucción print() requiere de paréntesis alrededor
 del mensaje.
+
+AHORA HABLEMOS DE NÚMEROS
+
+Los números en Python no requieren de las comillas.
+
+LECCIONES APRENDIDAS
+
+Python se utiliza ampliamente para construir software y
+juegos, analizar datos y programar inteligencia artificial.
