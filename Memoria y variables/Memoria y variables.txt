@@ -28,7 +28,7 @@ pero el código también será leido por otros humanos (!Y POR TI EN EL FUTURO¡
 Las computadoras pueden almacenar y recuperar información más rápido
 y con mayor precisión que los humanos.
 
-LECCIIONES APRENDIDAS
+LECCIONES APRENDIDAS
 Los programas informáticos utilizan variables para recordar información importante.
 Una variable tiene un nombre y un valor.
 Puede crear una variable conectando el nombre y el valor con un signo igual "=" .
