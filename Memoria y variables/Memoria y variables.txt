@@ -1,0 +1,34 @@
+Los programas informáticos utilizan variables para recordar
+información importante, como los artículos en un carrito de
+compras, precios y descuentos.
+
+La línea de código a continuación le indica a la computadora
+que almacene información en una variable llamada item.
+
+item = "bike"
+
+La información que necesita almacenar se agrega a la derecha.
+
+Las variables tienen un nombre y un valor. Están conectados
+con el signo igual "=".
+
+item = "watch"
+
+Puedes pensar en una variable como una caja que contiene alguna
+información.
+
+nombre : city
+valor : "London"
+
+city = "London"
+
+Los humanos usan código para dar instrucciones a las computadoras,
+pero el código también será leido por otros humanos (!Y POR TI EN EL FUTURO¡).
+
+Las computadoras pueden almacenar y recuperar información más rápido
+y con mayor precisión que los humanos.
+
+LECCIIONES APRENDIDAS
+Los programas informáticos utilizan variables para recordar información importante.
+Una variable tiene un nombre y un valor.
+Puede crear una variable conectando el nombre y el valor con un signo igual "=" .
