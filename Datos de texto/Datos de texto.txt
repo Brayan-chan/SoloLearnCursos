@@ -1,0 +1,34 @@
+Una gran cantidad de información consiste en texto.
+Un dato de texto se recibe el nombre de cadena.
+
+Las cadenas o Strings en Python deben estar rodeadas 
+por comillas.
+
+"Esto es una hostoria muy interesante"
+
+Usamos comillas para decirle a Python que estamos trabajando
+con un dato de texto.
+
+Las cadenas se pueden almacenar en variables.
+
+En Python, tanto las comillas simples como las dobles pueden
+usarse para definir cadenas. No importa si eliges comillas 
+dobles o simples.
+
+Las comillas solo deben de coincidir.
+
+month = 'Aplil'
+
+Un programa de computadora está hecho de líneas de código.
+Puedes agregar tantas líneas y variables como necesites
+para darle instrucciones a la computadora.
+
+El código en los programas de computadora está hecho de 
+declaraciones. Las declaraciones son las instrucciones que
+la computadora debe de seguir. Los programas reales pueden
+contener miles de declaraciones.
+
+Un ejemplo de dos declaraciones son:
+
+libro = "Harry Potter"
+autor = "J.K. Rowling"
