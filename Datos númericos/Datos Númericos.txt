@@ -1,6 +1,0 @@
-Los datos númericos son información que se presenta en forma
-de números.
-
-Los valores númericos se pueden almacenar directamente en variables.
-
-poblacion = 20000
