@@ -32,3 +32,12 @@ Un ejemplo de dos declaraciones son:
 
 libro = "Harry Potter"
 autor = "J.K. Rowling"
+
+La instrucción print() es la forma más fácil de enviar un valor
+en pantalla.
+print("Hola mundo")
+
+LECCIONES APRENDIDAS
+
+Un dato de texto se llama cadenas.
+Las cadenas requieren de comillas.
